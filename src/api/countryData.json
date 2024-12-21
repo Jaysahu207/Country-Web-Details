@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "name": "United States",
+    "capital": "Washington, D.C.",
+    "population": 331002651,
+    "interestingFact": "The U.S. is home to the world's largest economy.",
+    "president": "Joe Biden",
+    "primeMinister": null,
+    "flag": "https://flagcdn.com/us.svg",
+    "wikiLink": "https://en.wikipedia.org/wiki/United_States"
+  },
+  {
+    "id": 2,
+    "name": "India",
+    "capital": "New Delhi",
+    "population": 1393409038,
+    "interestingFact": "India is the world's largest democracy.",
+    "president": "Droupadi Murmu",
+    "primeMinister": "Narendra Modi",
+    "flag": "https://flagcdn.com/in.svg",
+    "wikiLink": "https://en.wikipedia.org/wiki/India"
+  },
+  {
+    "id": 3,
+    "name": "China",
+    "capital": "Beijing",
+    "population": 1444216107,
+    "interestingFact": "China has the world's largest population.",
+    "president": "Xi Jinping",
+    "primeMinister": "Li Qiang",
+    "flag": "https://flagcdn.com/cn.svg",
+    "wikiLink": "https://en.wikipedia.org/wiki/China"
+  },
+  {
+    "id": 4,
+    "name": "Germany",
+    "capital": "Berlin",
+    "population": 83783942,
+    "interestingFact": "Germany is known for its engineering and automotive industries.",
+    "president": "Frank-Walter Steinmeier",
+    "primeMinister": "Olaf Scholz",
+    "flag": "https://flagcdn.com/de.svg",
+    "wikiLink": "https://en.wikipedia.org/wiki/Germany"
+  },
+  {
+    "id": 5,
+    "name": "Japan",
+    "capital": "Tokyo",
+    "population": 126476461,
+    "interestingFact": "Japan has the world's third-largest economy.",
+    "president": null,
+    "primeMinister": "Fumio Kishida",
+    "flag": "https://flagcdn.com/jp.svg",
+    "wikiLink": "https://en.wikipedia.org/wiki/Japan"
+  },
+  {
+    "id": 6,
+    "name": "United Kingdom",
+    "capital": "London",
+    "population": 67886011,
+    "interestingFact": "The UK is made up of four countries: England, Scotland, Wales, and Northern Ireland.",
+    "president": null,
+    "primeMinister": "Rishi Sunak",
+    "flag": "https://flagcdn.com/gb.svg",
+    "wikiLink": "https://en.wikipedia.org/wiki/United_Kingdom"
+  },
+  {
+    "id": 7,
+    "name": "France",
+    "capital": "Paris",
+    "population": 65273511,
+    "interestingFact": "France is the most visited country in the world.",
+    "president": "Emmanuel Macron",
+    "primeMinister": "Elisabeth Borne",
+    "flag": "https://flagcdn.com/fr.svg",
+    "wikiLink": "https://en.wikipedia.org/wiki/France"
+  },
+  {
+    "id": 8,
+    "name": "Canada",
+    "capital": "Ottawa",
+    "population": 38005238,
+    "interestingFact": "Canada has the longest coastline in the world.",
+    "president": null,
+    "primeMinister": "Justin Trudeau",
+    "flag": "https://flagcdn.com/ca.svg",
+    "wikiLink": "https://en.wikipedia.org/wiki/Canada"
+  },
+  {
+    "id": 9,
+    "name": "Australia",
+    "capital": "Canberra",
+    "population": 25687041,
+    "interestingFact": "Australia is home to the Great Barrier Reef.",
+    "president": null,
+    "primeMinister": "Anthony Albanese",
+    "flag": "https://flagcdn.com/au.svg",
+    "wikiLink": "https://en.wikipedia.org/wiki/Australia"
+  },
+  {
+    "id": 10,
+    "name": "Brazil",
+    "capital": "Brasília",
+    "population": 212559417,
+    "interestingFact": "Brazil is the largest country in South America.",
+    "president": "Luiz Inácio Lula da Silva",
+    "primeMinister": null,
+    "flag": "https://flagcdn.com/br.svg",
+    "wikiLink": "https://en.wikipedia.org/wiki/Brazil"
+  },
+  {
+    "id": 11,
+    "name": "Russia",
+    "capital": "Moscow",
+    "population": 146748590,
+    "interestingFact": "Russia is the largest country by land area.",
+    "president": "Vladimir Putin",
+    "primeMinister": "Mikhail Mishustin",
+    "flag": "https://flagcdn.com/ru.svg",
+    "wikiLink": "https://en.wikipedia.org/wiki/Russia"
+  },
+  {
+    "id": 12,
+    "name": "Italy",
+    "capital": "Rome",
+    "population": 60244639,
+    "interestingFact": "Italy is known for its art, history, and cuisine.",
+    "president": "Sergio Mattarella",
+    "primeMinister": "Giorgia Meloni",
+    "flag": "https://flagcdn.com/it.svg",
+    "wikiLink": "https://en.wikipedia.org/wiki/Italy"
+  },
+  {
+    "id": 13,
+    "name": "South Africa",
+    "capital": "Pretoria (administrative)",
+    "population": 59308690,
+    "interestingFact": "South Africa has three capital cities.",
+    "president": "Cyril Ramaphosa",
+    "primeMinister": null,
+    "flag": "https://flagcdn.com/za.svg",
+    "wikiLink": "https://en.wikipedia.org/wiki/South_Africa"
+  },
+  {
+    "id": 14,
+    "name": "Mexico",
+    "capital": "Mexico City",
+    "population": 128932753,
+    "interestingFact": "Mexico introduced chocolate to the world.",
+    "president": "Andrés Manuel López Obrador",
+    "primeMinister": null,
+    "flag": "https://flagcdn.com/mx.svg",
+    "wikiLink": "https://en.wikipedia.org/wiki/Mexico"
+  },
+  {
+    "id": 15,
+    "name": "South Korea",
+    "capital": "Seoul",
+    "population": 51780579,
+    "interestingFact": "South Korea is a global leader in technology.",
+    "president": "Yoon Suk-yeol",
+    "primeMinister": "Han Duck-soo",
+    "flag": "https://flagcdn.com/kr.svg",
+    "wikiLink": "https://en.wikipedia.org/wiki/South_Korea"
+  },
+  {
+    "id": 16,
+    "name": "Saudi Arabia",
+    "capital": "Riyadh",
+    "population": 34813871,
+    "interestingFact": "Saudi Arabia is the birthplace of Islam.",
+    "president": null,
+    "primeMinister": "Mohammed bin Salman",
+    "flag": "https://flagcdn.com/sa.svg",
+    "wikiLink": "https://en.wikipedia.org/wiki/Saudi_Arabia"
+  },
+  {
+    "id": 17,
+    "name": "Argentina",
+    "capital": "Buenos Aires",
+    "population": 45195774,
+    "interestingFact": "Argentina is famous for tango and beef.",
+    "president": "Alberto Fernández",
+    "primeMinister": null,
+    "flag": "https://flagcdn.com/ar.svg",
+    "wikiLink": "https://en.wikipedia.org/wiki/Argentina"
+  },
+  {
+    "id": 18,
+    "name": "Turkey",
+    "capital": "Ankara",
+    "population": 84339067,
+    "interestingFact": "Turkey bridges Europe and Asia.",
+    "president": "Recep Tayyip Erdoğan",
+    "primeMinister": null,
+    "flag": "https://flagcdn.com/tr.svg",
+    "wikiLink": "https://en.wikipedia.org/wiki/Turkey"
+  },
+  {
+    "id": 19,
+    "name": "Nigeria",
+    "capital": "Abuja",
+    "population": 206139589,
+    "interestingFact": "Nigeria is Africa's most populous country.",
+    "president": "Bola Ahmed Tinubu",
+    "primeMinister": null,
+    "flag": "https://flagcdn.com/ng.svg",
+    "wikiLink": "https://en.wikipedia.org/wiki/Nigeria"
+  },
+  {
+    "id": 20,
+    "name": "Egypt",
+    "capital": "Cairo",
+    "population": 102334404,
+    "interestingFact": "Egypt is home to the ancient pyramids.",
+    "president": "Abdel Fattah el-Sisi",
+    "primeMinister": "Mostafa Madbouly",
+    "flag": "https://flagcdn.com/eg.svg",
+    "wikiLink": "https://en.wikipedia.org/wiki/Egypt"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "icon": "MdPlace",
+    "title": "Find us",
+    "details": "Ameerpet, Hyderabad"
+  },
+  {
+    "icon": "IoCallSharp",
+    "title": "Call us",
+    "details": "7894569874"
+  },
+  {
+    "icon": "TbMailPlus",
+    "title": "Mail us",
+    "details": "sahujay702@kodyfier.com"
+  }
+]
